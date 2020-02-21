@@ -1,8 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Trade+Winds&display=swap");
+
 .App {
   text-align: center;
 }
 .Header {
-  color: #443e3e;
+  font-family: "Trade Winds", sans-serif;
+  color: darkred;
   text-shadow: 1px 1px 5px #fff;
+  margin: 5% 0% 2% 0%;
+  font-size: 4rem;
 }
 /* write your parent styles in here for your App.js */
